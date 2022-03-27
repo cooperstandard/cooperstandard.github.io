@@ -1,6 +1,7 @@
-### Resume:
-- IT help desk specialist
-    - University of Denver
+---
+title: Cooper Standard (dot) org
+description: Hi there, I'm Cooper! I'm studying Computer Science and Philosophy at the University of Denver. When I'm not reading or working on programming projects I like to explore Colorado and watch movies. This page is a work in progress, but feel free to look around. If you want, look at a copy of my [resume](./Cooper%20Standard%20Resume.pdf) or browse my [github profile](github.com/cooperstandard).
+---
 
-- Sergeant at arms
-    - Delta Chi D
+
+## *Work in progress*
